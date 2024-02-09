@@ -24,11 +24,11 @@ RACHIDI Camille (Back-end)
 
 🍿 Ressources :
 
-Figma - https://www.figma.com/files/project/203792209/PartyMix?fuid=1024652463159031353
+Figma - 
 
-GoogleDrive - https://drive.google.com/drive/folders/11_UtDhafnLOsplulmflu5KVi_ppmZG3B?usp=sharing
+GoogleDrive - 
 
-Discord - https://discord.gg/5ecJq6Pa
+Discord -
 
 
 🧙 Les magiciens en route vers le changement radical de vos soirées
