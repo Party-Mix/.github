@@ -4,7 +4,7 @@
 🌈 Kiku (anciennement Party Mix) est une application/site web conçu pour apporter la musique idéale lors de rassemblements nocturnes, festifs et potentiellement alcoolisés, sans se limiter au catalogue d’un seul service de streaming.
 
 
-🎉 Fonctionnalités de Kiku
+### 🎉 Fonctionnalités de Kiku
 
 
 Kiku permet à plusieurs utilisateurs de composer ensemble en temps réel une playlist de musique. Les morceaux peuvent provenir de diverses plateformes de streaming telles que Spotify, YouTube ou SoundCloud. Cela permet de jouer facilement plusieurs morceaux exclusifs à certaines plateformes, les uns après les autres.
