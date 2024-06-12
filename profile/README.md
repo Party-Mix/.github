@@ -20,7 +20,7 @@ Import de playlists complètes : Importez facilement des playlists depuis d'autr
 Autocomplétion intelligente : La playlist se complète automatiquement en fonction des musiques précédemment jouées.
 
 
-👩‍💻 Équipe de développement
+### 👩‍💻 Équipe de développement
 
 
 PERCIN Loris
@@ -32,7 +32,7 @@ GABORIAU Rémy
 INFANTI Juliette
 
 
-🍿 Ressources
+### 🍿 Ressources
 
 Figma - Lien de la maquette Figma
 
@@ -41,4 +41,4 @@ GoogleDrive - Lien vers le Google Drive partagé
 Discord - Lien du serveur Discord pour les communications d’équipe
 
 
-🧙 Les magiciens en route vers le changement radical de vos soirées
+### 🧙 Les magiciens en route vers le changement radical de vos soirées
