@@ -11,13 +11,14 @@ Kiku permet à plusieurs utilisateurs de composer ensemble en temps réel une pl
 
 
 Fonctionnalités principales :
-Création collaborative de playlists : Ajoutez des morceaux de différentes plateformes en temps réel.
 
-Système de vote : Permet de passer ou de jouer directement certaines musiques, idéal pour éviter les choix non désirés (par exemple, les chansons Disney).
+- Création collaborative de playlists : Ajoutez des morceaux de différentes plateformes en temps réel.
 
-Import de playlists complètes : Importez facilement des playlists depuis d'autres plateformes.
+- Système de vote : Permet de passer ou de jouer directement certaines musiques, idéal pour éviter les choix non désirés (par exemple, les chansons Disney).
 
-Autocomplétion intelligente : La playlist se complète automatiquement en fonction des musiques précédemment jouées.
+- Import de playlists complètes : Importez facilement des playlists depuis d'autres plateformes.
+
+- Autocomplétion intelligente : La playlist se complète automatiquement en fonction des musiques précédemment jouées.
 
 
 ### 👩‍💻 Équipe de développement
